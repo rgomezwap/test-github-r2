@@ -148,7 +148,7 @@
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64", ala
+        "dataEncoding": "base64",
         "namespace": "myTiles"
     }
     
