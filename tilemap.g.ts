@@ -1,4 +1,4 @@
-// Auto-generated code. Do not edit.
+// Auto-generated code. Do not edit. RIC
 namespace myTiles {
 
     //% fixedInstance jres blockIdentity=images._tile
