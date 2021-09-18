@@ -5,7 +5,7 @@
         "tilemapTile": true
     },
     "tile1": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAADMAAAAAAAAwAAAAMAAAAAMAADAzAwAAAwAAMAADAAADAAAwAAMAAAMAADAAAwAAMAAAADAAAAAwAAAAMAAAADAAAAADAAAAADMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "data": "hwQQABAAAAD/////////////////////////////////+5qv+Zof8b/7mq/5mh8Ru/uar/maHxG7+5qv+ZofEbv7mq/5mh8Ruxv/////ERG7GxEREREREbsbERERERERuxsRERERERG7GxEREREREbv//////x8R+///////HxH/////////EQ==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile1"
