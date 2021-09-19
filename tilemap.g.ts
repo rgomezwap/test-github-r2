@@ -86,41 +86,7 @@ namespace myTiles {
     export const tile81 = image.ofBuffer(hex``);
     export const tile82 = image.ofBuffer(hex``);
     export const tile83 = image.ofBuffer(hex``);
-    export const tile84 = image.ofBuffer(hex``);
-    export const tile85 = image.ofBuffer(hex``);
-    export const tile86 = image.ofBuffer(hex``);
-    export const tile87 = image.ofBuffer(hex``);
-    export const tile88 = image.ofBuffer(hex``);
-    export const tile89 = image.ofBuffer(hex``);
-    export const tile90 = image.ofBuffer(hex``);
-    export const tile91 = image.ofBuffer(hex``);
-    export const tile92 = image.ofBuffer(hex``);
-    export const tile93 = image.ofBuffer(hex``);
-    export const tile94 = image.ofBuffer(hex``);
-    export const tile95 = image.ofBuffer(hex``);
-    export const tile96 = image.ofBuffer(hex``);
-    export const tile97 = image.ofBuffer(hex``);
-    export const tile98 = image.ofBuffer(hex``);
-    export const tile99 = image.ofBuffer(hex``);
-    export const tile100 = image.ofBuffer(hex``);
-    export const tile101 = image.ofBuffer(hex``);
-    export const tile102 = image.ofBuffer(hex``);
-    export const tile103 = image.ofBuffer(hex``);
-    export const tile104 = image.ofBuffer(hex``);
-    export const tile105 = image.ofBuffer(hex``);
-    export const tile106 = image.ofBuffer(hex``);
-    export const tile107 = image.ofBuffer(hex``);
-    export const tile108 = image.ofBuffer(hex``);
-    export const tile109 = image.ofBuffer(hex``);
-    export const tile110 = image.ofBuffer(hex``);
-    export const tile111 = image.ofBuffer(hex``);
-    export const tile112 = image.ofBuffer(hex``);
-    export const tile113 = image.ofBuffer(hex``);
-    export const tile114 = image.ofBuffer(hex``);
-    export const tile115 = image.ofBuffer(hex``);
-    export const tile116 = image.ofBuffer(hex``);
-    export const tile117 = image.ofBuffer(hex``);
-        
+    
     }
     // Auto-generated code. Do not edit.
     
