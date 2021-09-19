@@ -114,11 +114,6 @@ namespace myTiles {
     export const tile109 = image.ofBuffer(hex``);
     export const tile110 = image.ofBuffer(hex``);
     export const tile111 = image.ofBuffer(hex``);
-    export const tile112 = image.ofBuffer(hex``);
-    export const tile113 = image.ofBuffer(hex``);
-    export const tile114 = image.ofBuffer(hex``);
-    export const tile115 = image.ofBuffer(hex``);
-    export const tile116 = image.ofBuffer(hex``);
     
     }
     // Auto-generated code. Do not edit.
