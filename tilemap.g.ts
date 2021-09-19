@@ -52,6 +52,40 @@ namespace myTiles {
     export const tile47 = image.ofBuffer(hex``);
     export const tile48 = image.ofBuffer(hex``);
     export const tile49 = image.ofBuffer(hex``);
+    export const tile50 = image.ofBuffer(hex``);
+    export const tile51 = image.ofBuffer(hex``);
+    export const tile52 = image.ofBuffer(hex``);
+    export const tile53 = image.ofBuffer(hex``);
+    export const tile54 = image.ofBuffer(hex``);
+    export const tile55 = image.ofBuffer(hex``);
+    export const tile56 = image.ofBuffer(hex``);
+    export const tile57 = image.ofBuffer(hex``);
+    export const tile58 = image.ofBuffer(hex``);
+    export const tile59 = image.ofBuffer(hex``);
+    export const tile60 = image.ofBuffer(hex``);
+    export const tile61 = image.ofBuffer(hex``);
+    export const tile62 = image.ofBuffer(hex``);
+    export const tile63 = image.ofBuffer(hex``);
+    export const tile64 = image.ofBuffer(hex``);
+    export const tile65 = image.ofBuffer(hex``);
+    export const tile66 = image.ofBuffer(hex``);
+    export const tile67 = image.ofBuffer(hex``);
+    export const tile68 = image.ofBuffer(hex``);
+    export const tile69 = image.ofBuffer(hex``);
+    export const tile70 = image.ofBuffer(hex``);
+    export const tile71 = image.ofBuffer(hex``);
+    export const tile72 = image.ofBuffer(hex``);
+    export const tile73 = image.ofBuffer(hex``);
+    export const tile74 = image.ofBuffer(hex``);
+    export const tile75 = image.ofBuffer(hex``);
+    export const tile76 = image.ofBuffer(hex``);
+    export const tile77 = image.ofBuffer(hex``);
+    export const tile78 = image.ofBuffer(hex``);
+    export const tile79 = image.ofBuffer(hex``);
+    export const tile80 = image.ofBuffer(hex``);
+    export const tile81 = image.ofBuffer(hex``);
+    export const tile82 = image.ofBuffer(hex``);
+    export const tile83 = image.ofBuffer(hex``);
     
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
@@ -164,6 +198,74 @@ namespace myTiles {
             case "tile48":return tile48;
             case "myTile49":
             case "tile49":return tile49;
+            case "myTile50":
+            case "tile50":return tile50;
+            case "myTile51":
+            case "tile51":return tile51;
+            case "myTile52":
+            case "tile52":return tile52;
+            case "myTile53":
+            case "tile53":return tile53;
+            case "myTile54":
+            case "tile54":return tile54;
+            case "myTile55":
+            case "tile55":return tile55;
+            case "myTile56":
+            case "tile56":return tile56;
+            case "myTile57":
+            case "tile57":return tile57;
+            case "myTile58":
+            case "tile58":return tile58;
+            case "myTile59":
+            case "tile59":return tile59;
+            case "myTile60":
+            case "tile60":return tile60;
+            case "myTile61":
+            case "tile61":return tile61;
+            case "myTile62":
+            case "tile62":return tile62;
+            case "myTile63":
+            case "tile63":return tile63;
+            case "myTile64":
+            case "tile64":return tile64;
+            case "myTile65":
+            case "tile65":return tile65;
+            case "myTile66":
+            case "tile66":return tile66;
+            case "myTile67":
+            case "tile67":return tile67;
+            case "myTile68":
+            case "tile68":return tile68;
+            case "myTile69":
+            case "tile69":return tile69;
+            case "myTile70":
+            case "tile70":return tile70;
+            case "myTile71":
+            case "tile71":return tile71;
+            case "myTile72":
+            case "tile72":return tile72;
+            case "myTile73":
+            case "tile73":return tile73;
+            case "myTile74":
+            case "tile74":return tile74;
+            case "myTile75":
+            case "tile75":return tile75;
+            case "myTile76":
+            case "tile76":return tile76;
+            case "myTile77":
+            case "tile77":return tile77;
+            case "myTile78":
+            case "tile78":return tile78;
+            case "myTile79":
+            case "tile79":return tile79;
+            case "myTile80":
+            case "tile80":return tile80;
+            case "myTile81":
+            case "tile81":return tile81;
+            case "myTile82":
+            case "tile82":return tile82;
+            case "myTile83":
+            case "tile83":return tile83;
         }
         return null;
     })
